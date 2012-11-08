@@ -6,5 +6,4 @@ public class startClass {
 		System.out.println("Sug min rumpa");
 		
 	}
-
 }
